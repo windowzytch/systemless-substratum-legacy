@@ -19,3 +19,7 @@ You will have to reinstall the module afterwards.
 [XDA Developers Thread](https://forum.xda-developers.com/apps/magisk/module-systemless-substratum-legacy-t3623607/)
  
 [Donation Link](https://paypal.me/NodensDev)
+
+[owZ' YT channel](https://m.youtube.com/channel/UCWY1wG5VTJn-24IQwJRJY5g)
+
+[owZ' Telegram](https://t.me/windowzyt)
