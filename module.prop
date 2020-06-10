@@ -1,7 +1,7 @@
 id=systemless-substratum-legacy
 name=Systemless Substratum Legacy
-version=v2
+version=v2-fixdepends
 versionCode=2
-author=Nodens
+author=Nodens (Fix by Wind/owZ)
 description=A Magisk module which allows installation of Substratum themes in legacy/root mode systemlessly.
 template=3
